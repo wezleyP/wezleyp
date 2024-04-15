@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FreeCodeCamp Data Structures](https://github.com/wezleyP/FreeCodeCampLessons)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript**, **C# MVC ASP.NET** and **MYSQL**
 
 - 📫 How to reach me **wesley_patterson@icloud.com**
 
