@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, my name is Wesley Patterson</h1>
 <h3 align="center">Excited developer at the University of Oklahoma</h3>
 
-- 🔭 I’m currently working on [FreeCodeCamp Data Structures](https://github.com/wezleyP/FreeCodeCampLessons)
+- 🔭 I’m currently working on HabitHaven
 
 - 🌱 I’m currently learning **Javascript**, **C# MVC ASP.NET** and **MYSQL**
 
