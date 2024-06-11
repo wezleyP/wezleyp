@@ -1,5 +1,6 @@
 <h1 align="center">Hey there, my name is Wesley Patterson</h1>
 <h3 align="center">Excited developer at the University of Oklahoma</h3>
+<h4 align="center">Currently working at Paycom as a Database Administration Analyst Intern</h4>
 
 - 🔭 I’m currently working on HabitHaven
 
